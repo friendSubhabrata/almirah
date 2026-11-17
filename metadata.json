@@ -1,0 +1,8 @@
+{
+  "name": "Kolkata Almirah Care",
+  "description": "Doorstep steel and Godrej almirah painting and repairing service in Kolkata with 10+ years of experience. Call or WhatsApp 7003821400.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
